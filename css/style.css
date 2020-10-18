@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color:blue;
+=======
+    color: red;
+>>>>>>> be94fd3... cambio de titulo blog y color de fuente
     text-align: center;
     font-family: Arial;
     font-size: 16px;
